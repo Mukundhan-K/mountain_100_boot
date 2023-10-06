@@ -1,0 +1,17 @@
+
+#home{
+    height: 100vh;
+    width: 100%;
+
+    background-image: url(./assets/bg-masthead_edited.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.p6_card:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
